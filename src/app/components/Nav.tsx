@@ -173,11 +173,6 @@ const Nav = () => {
                         className="text-slate-500 w-fit"
                         onClick={() => {
                           const x = document.getElementById("passwordInput");
-                          if (x && x.type === "password") {
-                            x.type = "text";
-                          } else {
-                            x.type = "password";
-                          }
                         }}
                       >
                         Show

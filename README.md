@@ -1,3 +1,9 @@
+## Hello there CMC reviewers
+
+1. This is my attempt of solving the assignment given.
+1. I have chosen NextJS to solve this assignment, it has tailwind, eslint bundled up with it but aside from that, nothing much is used
+1. I also got some help from headlessUI, powered by tailwind for some of the components.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
